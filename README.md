@@ -60,8 +60,8 @@ All code is open for any and all usage.
 
 ## View the notebooks <a name="notebooks"></a>
 
-View the evtol.news scraper at Jupyter's NBviewer site, [click here.](https://nbviewer.jupyter.org/github/rovertm/faa_repair_stations/blob/master/faarepair_stations.ipynb)
+View the evtol.news scraper at Jupyter's NBviewer site, [click here.](https://nbviewer.jupyter.org/github/rovertm/evtol_scraper/blob/main/evtolnews_scrape/evtolnews_scrape.ipynb)
 
-View the TransportUP scraper at Jupyter's NBviewer site, [click here.](https://nbviewer.jupyter.org/github/rovertm/faa_repair_stations/blob/master/faarepair_stations.ipynb)
+View the TransportUP scraper at Jupyter's NBviewer site, [click here.](https://nbviewer.jupyter.org/github/rovertm/evtol_scraper/blob/main/transportup_scrape/transportup_scrape.ipynb)
 
 
