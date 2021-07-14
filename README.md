@@ -19,7 +19,7 @@ This repository contains tools for scraping eVTOL aircraft data from two website
 
 Each set of scraper functions, contained in individual packages, follows an identical process architecture show below.
 
-![Scraper_flowchart]("evtol_scraper_flowchart.jpeg")
+![scraper_flow](evtol_scrape_flowchart.jpeg)
 
 
 ## Use Cases <a name="use_cases"></a>
