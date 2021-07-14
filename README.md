@@ -39,7 +39,7 @@ Source data for:
 
 ## File Descriptions <a name="files"></a>
 
-* Jupyter Notebook for analysis: evtol_overview.ipynb
+* Jupyter Notebook for analysis: evtolnews_scrape.ipynb, and transportup_scrape.ipynb
 * Python files for custom functions
 
     * transportup_funcs.py
