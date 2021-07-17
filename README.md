@@ -1,5 +1,5 @@
 # evtol_scraper
-Webscraping tools for extracting eVTOL aircraft OEM data from two websites.
+Webscraping tools for extracting aircraft OEM data from two websites.
 
 ## Table of Contents
 
