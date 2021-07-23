@@ -26,10 +26,8 @@ Each set of scraper functions, contained in individual packages, follows an iden
 
 Source data for:
 
-* Market sizing and GTM research
+* Market research
 * Competitive intelligence
-* Financial models -- forecasting within eVTOL / UAM space
-
 
 ## Installation <a name="installation"></a>
 
