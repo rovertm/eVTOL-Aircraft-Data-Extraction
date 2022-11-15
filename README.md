@@ -1,4 +1,4 @@
-# evtol_scraper
+# web scraper sample
 
 Python-based web scraping tools for one-time and recurring data extraction from two unique eVTOL aircraft websites.
 
