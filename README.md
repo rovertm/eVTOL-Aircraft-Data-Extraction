@@ -1,5 +1,6 @@
 # evtol_scraper
-Webscraping tools for extracting aircraft OEM data from two websites.
+
+Python-based web scraping tools for one-time and recurring data extraction from two unique eVTOL aircraft websites.
 
 ## Table of Contents
 
